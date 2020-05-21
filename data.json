@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "John Smoe",
+        "JoinDate": "2019-01-14",
+        "Salary": "240000"
+    },
+    {
+        "Name": "Peter Smith",
+        "JoinDate": "2015-01-14",
+        "Salary": "240000"
+    }
+]
